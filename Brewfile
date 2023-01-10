@@ -71,7 +71,6 @@ brew "todoist"
 
 tap "bufbuild/buf"
 brew "buf"
-brew "clang-format"
 
 # Pulumi ❤️
 tap "pulumi/tap"
@@ -93,25 +92,17 @@ cask "visual-studio-code"
 cask "google-cloud-sdk"
 cask "iterm2"
 cask "spotify"
-cask "memory"
 cask "slack"
 cask "docker"
 cask "postman"
-cask "sonos"
-cask "tunnelblick"
 cask "drawio"
 cask "figma"
 cask "discord"
 
 # Freetime
 cask "steam"
+cask "minecraft"
 
 # Taskfile
 tap "go-task/tap"
 brew "go-task"
-
-# My tools
-brew "cobraz/tools/trippl-timely"
-
-# Mac Application
-mas "gifski", id: 1351639930
