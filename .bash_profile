@@ -19,4 +19,4 @@ export LSCOLORS=Exfxcxdxbxegedabagacad
 export VOLTA_HOME="$HOME/.volta"
 export PATH="$VOLTA_HOME/bin:$PATH"
 
-function gam() { "/Users/cobraz/bin/gam/gam" "$@" ; }
+function gam() { "/Users/moripen/bin/gam/gam" "$@" ; }
